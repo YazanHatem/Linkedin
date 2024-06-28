@@ -1,0 +1,1 @@
+{"uuid":"9c614760-821d-418e-a587-c30bfd4a612a","name":"SearchResultPageTest.Setup","children":["7ea0da88-2641-4029-ac37-0eb39407a2ec"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719528058206,"stop":1719528062030}],"afters":[],"start":1719528058206,"stop":1719528062031}
